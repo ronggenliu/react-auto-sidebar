@@ -1,0 +1,2 @@
+# react-auto-sidebar
+sidebar
