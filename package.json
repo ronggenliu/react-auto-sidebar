@@ -1,0 +1,40 @@
+{
+  "name": "react-auto-sidebar",
+  "version": "1.0.0",
+  "description": "sidebar",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronggenliu/react-auto-sidebar.git"
+  },
+  "keywords": [
+    "react",
+    "sidebar"
+  ],
+  "author": "ronggenliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronggenliu/react-auto-sidebar/issues"
+  },
+  "homepage": "https://github.com/ronggenliu/react-auto-sidebar#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "tween.js": "^16.3.5",
+    "tweenjs": "0.0.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.0",
+    "style-loader": "^0.13.1"
+  }
+}
